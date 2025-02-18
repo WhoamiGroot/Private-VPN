@@ -133,7 +133,7 @@ Enable IP Forwarding:
 echo "net.ipv4.ip_forward=1" | sudo tee -a /etc/sysctl.conf
 sudo sysctl -p
 ```
-````````````````````````````````````````````````````````````````````````````````
+
 Step 5: Set Up VPN Clients
 
 1.For WireGuard
