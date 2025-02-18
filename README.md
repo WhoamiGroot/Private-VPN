@@ -1,4 +1,4 @@
-When you have a spare laptop or desktop or a raspberri pi left which you can a server on it then here i will explain how to run your own VPN server for more privace and security.
+When you have a spare laptop or desktop or a raspberri pi left which you can run a server on it then here i will explain how to run your own VPN server for more privace and security.
 I will also add a script to install wireguard automatic. (Instructions at bottom of the readme file).
 
 So let's start:
